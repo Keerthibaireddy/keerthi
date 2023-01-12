@@ -1,1 +1,13 @@
-# keerthi
+Wine Quality Prediction
+
+Introduction and Overview
+The various chemical components in wine give the wine its distinct taste and aroma. Appreciation of wine quality involves moving beyond our innate preferences.
+These physicochemical properties can be used to model wine quality. The price of wine depends on a rather abstract concept of wine appreciation by wine tasters, 
+opinion among whom may have a high degree of variability. Pricing of wine depends on such a volatile factor to some extent.
+
+Our objective is in this project is to create a Machine Learning models that can predict the quality of the wine with the help of the chemical properties involved
+in it.
+
+Business Objective:
+
+Our target is to predict the target variable "Quality" based on its ranking on performing classification models.
